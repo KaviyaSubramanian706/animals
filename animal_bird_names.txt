@@ -3,3 +3,5 @@ dinosaur
 elephant
 crow
 pigeon
+Duck
+Peacock
