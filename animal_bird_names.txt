@@ -1,3 +1,5 @@
 monkey
 dinosaur
 elephant
+crow
+pigeon
